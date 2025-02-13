@@ -6,13 +6,19 @@ The HR Analytics Dashboard provides insights into workforce data, enabling HR pr
 🚀 Features
 
 Employee headcount and demographics analysis
+
 Attrition and retention trends 
+
 Compensation and benefits insights
+
 Performance evaluation metrics
+
 Recruitment and hiring analytics
+
 Training and development tracking
 
 🛠️ Technologies Used
 
 Power BI – For data visualization and interactive reporting
+
 Excel – For data storage, preprocessing, and analysis
